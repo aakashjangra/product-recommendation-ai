@@ -1,0 +1,33 @@
+{
+  "fallback": "Sorry, I did not understand your query!",
+  "general": {
+    "hello": "Hi there! Tell me which product you are looking for (e.g. Jeans, Shirt, Shoes).",
+    "hi": "Hi there! Tell me which product you are looking for (e.g. Jeans, Shirt, Shoes)."
+  },
+  "products": {
+    "jeans": {
+      "prompt": "Please select your budget (500 - 1000, 1000 - 1500, 1500 - 2000)",
+      "budgets": {
+        "500-1000": "Great picks for you: Slim Fit Blue Denim (₹799), Classic Straight Jeans (₹949), Washed Black Jeans (₹999).",
+        "1000-1500": "Great picks for you: Stretch Skinny Jeans (₹1199), Relaxed Fit Denim (₹1349), Distressed Light Wash (₹1499).",
+        "1500-2000": "Great picks for you: Premium Selvedge Denim (₹1699), Tapered Fit Stone Wash (₹1799), Designer Cargo Jeans (₹1999)."
+      }
+    },
+    "shirt": {
+      "prompt": "Please select your budget (500 - 1000, 1000 - 1500, 1500 - 2000)",
+      "budgets": {
+        "500-1000": "Great picks for you: Cotton Casual Shirt (₹599), Checked Flannel Shirt (₹749), Linen Half-Sleeve Shirt (₹899).",
+        "1000-1500": "Great picks for you: Oxford Button-Down (₹1099), Slim Fit Formal Shirt (₹1299), Printed Resort Shirt (₹1399).",
+        "1500-2000": "Great picks for you: Premium Poplin Formal (₹1599), Mandarin Collar Linen (₹1749), Designer Check Shirt (₹1949)."
+      }
+    },
+    "shoes": {
+      "prompt": "Please select your budget (500 - 1000, 1000 - 1500, 1500 - 2000)",
+      "budgets": {
+        "500-1000": "Great picks for you: Canvas Sneakers (₹699), Casual Slip-ons (₹849), Basic Running Shoes (₹999).",
+        "1000-1500": "Great picks for you: Lightweight Runners (₹1199), Leather-look Loafers (₹1299), Everyday Trainers (₹1449).",
+        "1500-2000": "Great picks for you: Cushioned Running Shoes (₹1699), Leather Derby Shoes (₹1849), High-top Sneakers (₹1999)."
+      }
+    }
+  }
+}
